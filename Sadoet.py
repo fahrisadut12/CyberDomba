@@ -9,16 +9,16 @@ Explore
  
 @fahrisadut12 
 0
-3 0 MaulanaRyM/ACN
+3 0 Fahri
  Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-ACN/ACN.sh
-@MaulanaRyM MaulanaRyM Update ! 4/11/2019
+Sadoet/Sadoet.py
+@Fahrisadut Update ! 4/11/2019
 863ba59 4 days ago
 637 lines (510 sloc)  13.6 KB
     
 #!/bin/bash
 #Jgn di recode om :v
-#subscribe dolo ea gayn :https://www.youtube.com/c/MAULANARyM
+#subscribe dolo ea gayn :https://www.youtube.com/CyberDomba
 
 
 b="\033[1m"
